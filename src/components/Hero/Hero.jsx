@@ -51,8 +51,14 @@ const Hero = () => {
       <div className="right-h">
         <button className="btn">Join Now</button>
         <div className="heart-rate">
-          <img src={Heart} alt=""/>
-          <span>Heart rate</span><span>116BPM</span>
+          <img src={Heart} alt="" />
+          <span>Heart rate</span>
+          <span>116BPM</span>
+
+
+          <img src={hero_image} alt="Banner Image" className="hero-image"/>
+
+          <img src={hero_image_back} alt="" className="hero-image-back"/>
         </div>
       </div>
     </div>
