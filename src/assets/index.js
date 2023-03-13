@@ -14,3 +14,9 @@ export const WhiteTick = require("./whiteTick.png");
 //testimonial component
 export const LeftArrow = require("./leftArrow.png");
 export const RightArrow = require("./rightArrow.png");
+
+//footer component
+export const Github = require("./github.png");
+export const Instagram = require("./instagram.png");
+export const LinkedIn = require("./linkedin.png");
+export const Logo = require("./logo.png");
