@@ -121,13 +121,13 @@
 .hero-image {
   position: absolute;
   top: 12rem;
-  right: 26rem;
+  right: 18rem;
   width: 23rem;
 }
 .hero-image-back {
   position: absolute;
   top: 2rem;
-  right: 38rem;
+  right: 30rem;
   z-index: -1;
   width: 15rem;
 }
@@ -139,8 +139,8 @@
   padding: 1rem;
   width: fit-content;
   position: absolute;
-  top: 32rem;
-  right: 48rem;
+  top: 36rem;
+  right: 40rem;
 }
 .calories > img {
   width: 3rem;
