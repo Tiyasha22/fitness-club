@@ -12,7 +12,7 @@ import {
 } from "../../assets";
 const Reasons = () => {
   return (
-    <div className="Reasons" id="reasons">
+    <div className="Reasons" id="Reasons">
       <div className="left-r">
         <img src={ReasonsImg1} alt="" />
         <img src={ReasonsImg2} alt="" />

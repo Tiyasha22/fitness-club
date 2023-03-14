@@ -20,3 +20,6 @@ export const Github = require("./github.png");
 export const Instagram = require("./instagram.png");
 export const LinkedIn = require("./linkedin.png");
 export const Logo = require("./logo.png");
+
+//header component
+export const Bars = require("./bars.png");
