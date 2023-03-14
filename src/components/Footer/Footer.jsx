@@ -14,9 +14,9 @@ const Footer = () => {
         <div className="logo-f">
           <img src={Logo} alt="" />
         </div>
-        <div>
+        <div className="copyright">
           <span>Made by Tiyasha Mohanty</span>
-          <span>Learnt from ZAINKEEPSCODE</span>
+          <span> Learnt from ZAINKEEPSCODE</span>
         </div>
       </div>
       <div className="blur footer-blur-1"></div>

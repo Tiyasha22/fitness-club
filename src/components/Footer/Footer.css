@@ -41,3 +41,7 @@
   filter: blur(200px);
   background: rgba(255, 115, 0);
 }
+.copyright {
+  display: flex;
+  flex-direction: column;
+}
